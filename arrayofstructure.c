@@ -9,6 +9,7 @@ int main()
 			int i;
 			int j;
 			int d;
+			int k;
 		};
 			struct demo arr[5];
 			
